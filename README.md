@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![thewahome Github Stats](https://github-readme-stats.vercel.app/api?username=thewahome&count_private=true&show_icons=true&theme=dracula)
-
 <a href="https://thewahome.com/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thewahome&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=8ef&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thewahome&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=8ef&theme=dracula" />
   <!-- wi*quL3fcV -->
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewahome&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&theme=dracula" /></a>
